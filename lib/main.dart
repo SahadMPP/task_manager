@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:task_manager/view/tasklist_screen.dart';
+import 'package:task_manager/task/view/splash_screen.dart';
 
-void main() {
+void main() async{
   runApp(const MyApp());
 }
 
@@ -11,10 +11,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  GetMaterialApp(
+    return  const GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData.dark(),
-      home: const TaskListScreen(),
+      home: SplashScreen(),
     );
   }
 }
