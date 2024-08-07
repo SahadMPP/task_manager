@@ -13,7 +13,7 @@ The Task Manager App is a simple Flutter application that helps users manage the
 ## Screenshots
 
 ![Task Manager App Screenshot](<screenshort/WhatsApp Image 2024-08-07 at 11.12.16 PM (1).jpeg>)
-![Task Manager App Screenshot](<screenshort/WhatsApp Image 2024-08-07 at 11.12.16 PM (1).jpeg>)
+![Task Manager App Screenshot](<screenshort/WhatsApp Image 2024-08-07 at 11.12.16 PM.jpeg>)
 ![Task Manager App Screenshot](<screenshort/WhatsApp Image 2024-08-07 at 11.12.17 PM (1).jpeg>)
 ![Task Manager App Screenshot](<screenshort/WhatsApp Image 2024-08-07 at 11.12.17 PM.jpeg>)
 
